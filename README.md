@@ -76,12 +76,13 @@ This Repository contains interactive sales dashboard of different teams in the y
       </span></animated-image> Analysis</h2>
  <pre class="notranslate"><code>   
 
-o	Trend of Gross margin for every month of the year.
+-	The dashboard shows important metrics like Net Sales, Gross Sales, Total Cost, Total Discount, and Gross Margin.
  
-o	Necessary KPIs for Net Sales, Gross Sales, Total Cost, Total Discount, and Gross Margin .
+-	Net Sales is analysed for each team with the help of pie chart.
 
-o	Net Sales by Teams. 
+-	Gross Margin trends is shown for each month.
 
+-     Discount percent and Gross margin percent is also analysed.
 </code></pre>
 
 <h2 dir="auto"><a id="user-content--prior-knowledge" class="anchor" aria-hidden="true" href="#-prior-knowledge"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><animated-image data-catalyst="" style="width: 48px;"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif" height="48" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
