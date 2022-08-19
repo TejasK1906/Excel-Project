@@ -110,7 +110,7 @@ This Repository contains interactive sales dashboard of different teams in the y
             </svg>
           </a>
         </span>
-      </span></animated-image> Prior Knowledge</h2>
+      </span></animated-image> Prior Knowledge</h2> -->
    
 <p align = "left">   &emsp;&emsp;&emsp; <img height = "30" src = "https://img.shields.io/badge/MS-EXCEL-%3CGREEN%3E"> </p>
 
@@ -138,7 +138,7 @@ This Repository contains interactive sales dashboard of different teams in the y
             </svg>
           </a>
         </span>
-      </span></animated-image> Quick Start</h2> -->
+      </span></animated-image> Quick Start</h2>
       
  <pre class="notranslate"><code>
 
