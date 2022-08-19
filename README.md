@@ -110,9 +110,9 @@ This Repository contains interactive sales dashboard of different teams in the y
             </svg>
           </a>
         </span>
-      </span></animated-image> Prior Knowledge</h2> -->
+      </span></animated-image> Prior Knowledge</h2> 
    
-<p align = "left">   &emsp;&emsp;&emsp; <img height = "30" src = "https://img.shields.io/badge/MS-EXCEL-%3CGREEN%3E"> </p>
+<p align = "left">   &emsp;&emsp;&emsp; <img height = "30" src = "https://img.shields.io/badge/MS-EXCEL-%3CGREEN%3E"> </p> -->
 
 <h2 dir="auto"><a id="user-content--quick-start" class="anchor" aria-hidden="true" href="#-quick-start"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><animated-image data-catalyst="" style="width: 48px;"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" height="48" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
@@ -139,19 +139,17 @@ This Repository contains interactive sales dashboard of different teams in the y
           </a>
         </span>
       </span></animated-image> Quick Start</h2>
-      
- <pre class="notranslate"><code>
 
-     o Concatenating every csv present in the Dataset folder and connect to workbook using Power Query. 
+* Concatenating every csv present in the Dataset folder and connect to workbook using Power Query. 
      
-     o This will create a pivot table and is used for the dynamicity of the data.
+* This will create a pivot table and is used for the dynamicity of the data.
      
-     o Toggle button to visualize the data in Tabular view .
+* Toggle button to visualize the data in Tabular view .
      
-     o Creating Necessary Charts, Sparklines and Graphs, formatted with good aesthetics. 
+* Creating Necessary Charts, Sparklines and Graphs, formatted with good aesthetics. 
      
-     o Creating Slicers for filtering the data.
-</code></pre>
+* Creating Slicers for filtering the data.
+
   
  <h2 dir="auto"><a id="user-content--screenshots" class="anchor" aria-hidden="true" href="#-screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><animated-image data-catalyst="" style="width: 70px;"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2d618acb10c0499b4dac42891f2b152e43b1a6ce6d95cc5f4915a2b0f56a5e89/68747470733a2f2f7777772e676574636c6f75646170702e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30332f3561656262393532653438363763653133663464333038665f6c6170746f705f6769665f7472616e732e676966" data-target="animated-image.originalLink"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
