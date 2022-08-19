@@ -74,7 +74,7 @@ This Repository contains interactive sales dashboard of different teams in the y
           </a>
         </span>
       </span></animated-image> Analysis</h2>
- <pre class="notranslate"><code>   
+ <!-- <pre class="notranslate"><code>  </code></pre> -->
 
 * The dashboard shows important metrics like Net Sales, Gross Sales, Total Cost, Total Discount, and Gross Margin.
  
