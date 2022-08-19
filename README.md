@@ -175,12 +175,12 @@ o	Net Sales by Teams.
       </span></animated-image> Screenshots</h2>
 <H3><strong> Dashboard view :</strong></H3>
 <pre class="notranslate"><code>
-<img src = "https://user-images.githubusercontent.com/79314126/184397569-2f7e804d-5e3c-45ca-8937-eac37ff83533.png">
+<img src = "![image](https://user-images.githubusercontent.com/108053296/185665288-d9f9429f-3d1a-4c4b-a6a4-2bf7b9deb8d8.png)">
 </code></pre>
 
 
 <H3><strong> Tabular view :</strong></H3>
 <pre class="notranslate"><code>
-<img src = "https://user-images.githubusercontent.com/79314126/184397797-c936bef1-349e-4973-9ca5-d0624fe669df.png">
-</code></pre> -->
+<img src = "![image](https://user-images.githubusercontent.com/108053296/185665472-f8c94a3b-ddcd-4d11-85ad-d78b031dd5ce.png)">
+</code></pre> 
 
